@@ -6,8 +6,9 @@
      |______|_| \_|  |_|  |_|  \_\        |_| |____/ |_|
                                                  
 
-# Welcome to ENTR-451(Edit example)
+# Welcome to ENTR-451(Lanchen)
 
 This is an example of a GitHub repository.
-adsfasdf
+
+
 (c) 2022 Lanishero

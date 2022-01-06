@@ -10,3 +10,4 @@
 
 This is an example of a GitHub repository.
 adsfasdf
+(c) 2022 Lanishero
